@@ -40,3 +40,10 @@ La mappa geografica funziona perche la visualizzazione fa riferimento ad un targ
 - Ma quale potrebbe essere un modo diverso rispetto alla mappa che renda giustizia alle persone e che mostri chiaramente i loro spostamenti?
 
 
+#### *Sitografia*
+
+- https://www.lucify.com/seeking-asylum-in-europe/
+- https://www.lucify.com/the-flow-towards-europe/
+- https://trello.com/c/UdsU0lq6/85-the-flow-towards-europe-visualising-the-flow-of-asylum-seekers-to-european-countries
+- https://dublin.sciencegallery.com/trauma/exhibits/the-flow-towards-europe/
+

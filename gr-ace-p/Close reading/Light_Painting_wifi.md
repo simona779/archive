@@ -8,7 +8,7 @@ Si tratta di un film realizzato nel 2012 che esplora il mondo invisibile delle r
 Il film, ambientato ad Oslo, mostra una passeggiata attraverso la città. Il protagonista porta con se una barra di misurazione WiFi alta 4m che visualizza la potenza dei segnali, sfruttando un Arduino che illumina una quantità di led proporzionati alla potenza del wifi, in cui la massima potenza rappresenta l’accensione di tutti gli 80 led. Spostando l’asta mobile nello spazio tramite fotografie a lunga esposizione è possibile visualizzare le modifiche del segnale e la loro evoluzione. 
 
 ### __How does it means?__ <h3>
-La presenza delle reti Wifi cambia radicalmente il modo di fruire di qualsiasi posto, dalle scuole ai parchi, nonostante essa sia invisibile e intangibile la sua presenza è determinante ed influisce sulla nostra percezione di un luogo. La qualità di queste reti, la continuità, la potenza riflette la qualità e tipologia del posto che le produce.
+La presenza delle reti Wifi cambia radicalmente il modo di fruire di qualsiasi posto, nonostante essa sia invisibile e intangibile la sua presenza è determinante ed influisce sulla nostra percezione di un luogo. La qualità di queste reti, la continuità, la potenza riflette la qualità e tipologia del posto che le produce. Il progetto crea quindi la topografia delle reti Wifi collocandola visivamente nell'ambiente urbano di cui è parte integrante. Questo potrebbe permettere di trovare analogie o pattern ricorrenti all'interno delle città o tra stutture che hanno analoga funzione. 
 
 ### __What if?__ <h3>
 

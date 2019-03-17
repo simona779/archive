@@ -17,7 +17,7 @@ void draw(){
   
     for(int c=0;c<=height;c+=50){
      
-      
+      frameRate(10);
      strokeWeight(2);
      stroke(0);
      fill(random(0,255), random (0,0), random (0,255));;

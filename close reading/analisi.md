@@ -1,5 +1,5 @@
-<h1>The Source</h1>
-<h2>Greyworld (2004)</h2>
+<h1 align="center">The Source</h1>
+<h2 align="center">Greyworld (2004)</h2>
 <p>“The Source” è un’installazione permanente per la nuova London Stock Exchange.
 
 Il progetto è stato realizzato nel 2004 da un gruppo di artisti londinesi, Greyworld.
@@ -19,8 +19,8 @@ Vi è una differenza fondamentale, mentre una volta il gioco del bambino era in 
 The Source penso sia una di quelle strutture che possa dare ogni volta un significato diverso da persona a persona in base a un’interpretazione soggettiva ma è interessante il contrasto che si ha tra serietà/ affari e gioco/ divertimento, due punti opposti ma che in questo caso possono anche vivere in simbiosi.</p>
 ***
 
-<h1>Museo della mente</h1>
-<h2>Studio Azzurro (2008)</h2>
+<h1 align="center">Museo della mente</h1>
+<h2 align="center">Studio Azzurro (2008)</h2>
 <p>“Museo della mente” è un’installazione realizzata da Studio Azzurro nel 2008 a Roma.
 
 I musei generalmente sono un lucido disegno istituzionale mentre in Studio Azzurro si può benissimo parlare di esperienza museale.
@@ -38,8 +38,8 @@ Studio Azzurro, come abbiamo visto, utilizza il museo come un mezzo di comunicaz
 Infatti è proprio grazie all’esperienza del singolo visitatore che vive in prima persona la malattia così che, una volta uscito dalla struttura museale, possa raccontare ciò come qualcosa di suo.</p>
 ***
 
-<h1>Museo audiovisivo della Resistenza</h1>
-<h2>Studio Azzurro (2000)</h2>
+<h1 align="center">Museo audiovisivo della Resistenza</h1>
+<h2 align="center">Studio Azzurro (2000)</h2>
 <p>Il “Museo audiovisivo della Resistenza” è un’installazione museale realizzata da Studio Azzurro negl’anni 2000 nel piccolo paesino di Fosdinovo nella provincia di Massa-Carrara.
 
 Questa installazione è realizzata in un’unica sala e si articola attorno a un grande tavolo multimediale. Il “Tavolo della Memoria”, che consente di far rivivere ai visitatori le testimonianze e le vicende della Resistenza; un lungo schermo di proiezione, con il quale si alternano i ritratti e i racconti video di diciotto partigiani.

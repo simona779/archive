@@ -1,5 +1,5 @@
-#THE SOURCE
-###GREYWORLD - 2004
+# THE SOURCE
+### GREYWORLD - 2004
     
 **What? - **The source è un'installazione permanente che si trova alla sede del London stock excange. 279 sfere bianche si muovono in alto e in basso lungo 27 cavi metallici, componendo visualizzazioni di dati relativi alla finanza, oppure animazioni programmate rispetto ad eventi particolari o quotidiani, come l'apertura della borsa all'inizio della giornata.
 

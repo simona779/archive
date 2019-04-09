@@ -18,6 +18,8 @@ void draw() {
   int y2 = h*24;
 
   if (random(1) < 0.5) {
+  //prendo un numero random tra 0 e 1 e se è minore di 0.5 
+  //disegno due linee più spesse 
     strokeJoin(BEVEL);
     stroke(255, 239, 54);
     strokeWeight(4);
@@ -26,10 +28,14 @@ void draw() {
     strokeWeight(4);
     line(x2, y2, x1+16*2, y1);
   } else if (random(3) < 1) {
+    //altrimenti, se prendo un numero compreso tra 0 e 3 e questo è minore di 2
+    //disegno una linea più sottile
     stroke(#C43584);
     strokeWeight(2);
     line(x2, y2, x1+16*2, y1);
   } else {
+    //in tutti gli altri casi viene disegnato un rettangolo di altezza 
+    //random tra 0 e 16/2
     fill(#FC982B);
     noStroke();
     rect(x1+8, y1+8, w/2, random( h/2));

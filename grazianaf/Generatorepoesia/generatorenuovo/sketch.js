@@ -1,21 +1,18 @@
-//creo variabili per determinare la posizione in cui viene creata la poesia
 
+//precarico il font utilizzato
 var font1;
 var font2;
 function preload() {
   font1 = loadFont("Inconsolata-Regular.otf");
-  font2 = loadFont("Inconsolata-Regular.otf");
 }
-
 
 function setup() {
   createCanvas(500, 500);
   background(255);
   fill(0);
- 
   textFont(font1);
+  //chiamo la funzione che genera la poesia
   nuova_poesia();
-  
 }
 
 function draw() {
@@ -24,33 +21,29 @@ function draw() {
 //scrivo una funzione che crea la frase scegliendo le parole dagli array
 function scegli_parole(parole) {
   var posX= windowWidth/2;
-  //var posY= windowHeight/2;
   if (posX > 200) {
     posX = posX - 160;
-   // posY = posY - 160;
-    
   }
+  
   var a = int(random(parole.length)); 
   text(parole[a], posX, posY+40); 
   //incremento la posizione su x e y per mettere "in colonna le parole"
   posY= posY+30; 
   posX = posX + 20;
- push();
+ //crea disegno di linee casuale 
+  push();
   noFill();
   stroke(220);
   curve(random(posX)+40, random(posX)-20, random(posX)+30,     random(posX)+200, random(posX)+60, random(posX)-80, random(posX)+40, random(posX)*3)
   pop();
 }
 
-
-//compone la poesia
+//funzione che crea la nuova poesia
 function nuova_poesia() {
   background(255);
-  posY= 20;
-   
-  
+  //interlinea
+  posY= 20; 
 //Array
- 
   var articoli = [
     "il", "lo", "l'", "i", "gli", "la", "le", "un", "uno", "una", "un' "];
   var pronomi =["mio", "mia", "suo", "sua", "nostro", "nostri", "vostri", "loro"];
@@ -89,40 +82,41 @@ function nuova_poesia() {
     "intelligente", "artificiale", "attento", "schivo", "enorme", "pericoloso", "sicuro", "vivo", "generoso", "numeroso", "inglese", 
     "storico", "fermo", "fiero", "leggero"];
   var punteggiatura = ["...", "?", "!", ".", ",", ";"];
- 
 
-push();
+  //formatta la pagina
+  push();
   textSize(12);
   translate(-150,0);
   scegli_parole(articoli);
   scegli_parole(pronomi);
   scegli_parole(aggettivi); 
-pop();
-
+  pop();
+  //
   push();
   textSize(40);
   translate(300, -160);
   rotate(PI/2);
   scegli_parole(verbi);
- pop();
- push();
+  pop();
+  //
+  push();
   textSize(120); 
   scegli_parole(punteggiatura); 
   pop();
-push();
+  //
+  push();
   textSize(20);
   translate(0,30); 
   scegli_parole(articoli);
   scegli_parole(nomi);
   scegli_parole(aggettivi);
   scegli_parole(punteggiatura);
+  pop();
 }
-
 // se clicco compone un'altra poesia
 function mousePressed() {
   nuova_poesia();
 }
-
 //se premo un pulsante sulla tastiera salva il png della poesia nella cartella dello sketch
 function keyPressed() {
   var numero_sogno = int(random(100));

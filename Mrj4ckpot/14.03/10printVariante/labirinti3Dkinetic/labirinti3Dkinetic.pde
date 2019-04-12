@@ -1,5 +1,5 @@
-int cella=int(random(20, 60));
-int altezza=cella/int(random(1, 3));
+int cella=int(random(30, 70));
+int altezza=cella/int(random(1, 4));
 
 int L = 1600;
 int A = 800;
@@ -42,14 +42,15 @@ void draw() {
 
 
   rotateX(PI/3);
-  translate ((-width/3)-(3*cella), -width/4, -height/2);
-  scale(1.5);
+  translate ((-width/3)-(3*cella), -width/4, -height/2); 
+  scale(1.5); 
 
 
 
 
-  directionalLight(c/2, 160, 254, width, 0, -500);
-  directionalLight(c, 220, 254, height/2, 0, -1000);
+  directionalLight(c/2, 160, 254, width/2, height/2, -1000);
+  directionalLight(c, 160, 254, -width/2, -height/2, -2000);
+  directionalLight(c, 220, 254, width, 0, -500);
 
   translate(spostamento, 0, 0);
 

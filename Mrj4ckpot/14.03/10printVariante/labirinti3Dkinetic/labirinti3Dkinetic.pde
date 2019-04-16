@@ -18,7 +18,7 @@ void setup() {
   size(1600, 800, P3D);
   colorMode(HSB);
 
-  c = random(120, 255);
+  c = random(255);
   //frameRate(1);
 
   for (int x=0; x<colonne; x++) {
@@ -34,10 +34,6 @@ void setup() {
 void draw() {
   //c += 0.1;
 
-  if (c>255) {
-    c=0;
-  }
-
   background (c, 160, 254);
 
 
@@ -48,7 +44,7 @@ void draw() {
 
 
 
-  directionalLight(c/2, 160, 254, width/2, height/2, -1000);
+  directionalLight((c+100), 160, 254, width/2, height/2, -1000);
   directionalLight(c, 160, 254, -width/2, -height/2, -2000);
   directionalLight(c, 220, 254, width, 0, -500);
 

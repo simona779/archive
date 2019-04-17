@@ -194,7 +194,7 @@ function draw() {
      
     textSize(12);
     noStroke();
-    fill(228, 160, 200);
+    fill(228, 160, 200, 0.5);
     text("FAKE males", Ax-65, Ay+MaleFake+20);
     
     noStroke();
@@ -202,7 +202,7 @@ function draw() {
     text("REAL males", Ax+MaleReal-70, Ay+20);
     
     noStroke();
-    fill(318, 100, 67);
+    fill(318, 100, 67, 0.5);
     text("FAKE females", Bx, By-FemaleFake-10);
     
     noStroke();

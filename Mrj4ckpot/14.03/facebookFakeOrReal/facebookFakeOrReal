@@ -39,12 +39,12 @@ var ogg = []; // < array di oggetti/classi
 
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(800, 800);
   loadJSON(url, gotSpreadsheet);
   colorMode(HSB);
   
   // dimensioni del quadrato e coordinate dei punti A e B
-  imgX = width/4;
+  imgX = height/4;
   imgY = height/4;
   
   Ax = width/2 - imgX;
@@ -187,7 +187,11 @@ function draw() {
         line(Bx, By-Ff, Bx+int(ogg[i].amici)/propAmici, By-Ff);  
         Ff += linea;
       }
+
+          
+   }
     
+     
     textSize(12);
     noStroke();
     fill(228, 160, 200);
@@ -209,11 +213,7 @@ function draw() {
     fill(40);
     textSize(30);
     text("FACEBOOK", width/2 - 80, height/2);
-    text("ACCOUNTS", width/2 - 80, height/2+30);
-          
-   }
-    
-  
+    text("ACCOUNTS", width/2 - 80, height/2+30); 
   
   
   //image(img, Ax, Ay, imgX, imgY);

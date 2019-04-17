@@ -13,15 +13,19 @@ function setup() {
 
 function draw() {
   
-  background(255);
+  background(0);
   var padding = width/(dati.length+1);
   
   for (var i = 0; i < dati.length; i++) {
+    textSize(9);
+    //fill(255);
+    
     text(dati[i].anno, padding + i * padding*1.5, height/5);
     text(dati[i].vittima, padding + i * padding*4, height/3);
     
     
     //fill(255);
+    stroke(255);
     strokeWeight(2);
     noFill();
     ellipse(padding + i * padding, height/2, padding*1.2,padding*1.2);
@@ -29,7 +33,7 @@ function draw() {
     if(dati[i].ritrovamento=="no"){
      
           strokeWeight(1);
-          ellipse(padding + i * padding, height/2, 40,40);
+          ellipse(padding + i * padding, height/2, 50,50);
     }//rosa chiaro
     if(dati[i].mese=="primavera"){
       c = color('rgba(255, 0, 0, 0.3)');
@@ -102,13 +106,14 @@ function draw() {
     if(dati[i].stato=="alabama"){
       strokeWeight(0);
       fill(206,45,201);
-      ellipse(padding + i * padding, height/2,5,15);
+      ellipse(padding + i * padding, height/2,15,15);
     }
     // minorenni puntino nero al centro
-    if(dati[i].eta<"18"){
+    if(dati[i].eta <"18"){
+      fill(255);
       strokeWeight(0);
-      fill(0);
-      ellipse(padding + i * padding, height/2,5,5);
+      //fill(0);
+      ellipse(padding + i * padding, height/2,10,10);
     }
     
     

@@ -1,3 +1,12 @@
+// Agron Begteshi © 2019 MIT License
+// P5js retrieve data from Google Spreadsheets/JSON & make OOP | San Marino, SM | 4.2019
+// Educational purpose, made for DSII2019 lab @UniRSM
+// P5js gdoc example inspired on Gist https://gist.github.com/claytical/6a929f14964c867e07d8 by @claytical
+
+
+// carica da online
+
+
 var url = "https://spreadsheets.google.com/feeds/list/1N-QYhMtlKGLDqTdnUwsLW4O5QxV0PCqS_dpKtq6rZkg/1/public/values?alt=json";
 
 // array per contenere i dati/oggetto

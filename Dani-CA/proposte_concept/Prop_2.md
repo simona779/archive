@@ -1,0 +1,12 @@
+#### Proposta DUE
+
+Per l’uomo il bisogno di prendersi cura di un animale domestico è innato e lo aiuta, in un certo qual modo, a riconciliarsi alla natura che gli sta intorno e che sempre di più viene relegata a spazi artificiali progettati ad hoc. Avere all’interno della propria abitazione un animale  fa sentire le persone maggiormente vive e utili a qualcuno, poco importa che l’animale sia elettrico o in carne ed ossa.
+Dal tamagotchi alle pecore elettriche di Dick il passo non è poi così tanto ampio. 
+Dieci anni fa vi erano schiere di bambini ognuno con il proprio animaletto virtuale da accudire, a cui dare da mangiare e cercare di non far morire. Ricordo alcuni miei amici che erano legati al proprio tamagotchi a tal punto da piangere per la sua morte. 
+L’uomo però è diventato sempre più esigente e non si accontenta, o non completamente, del mondo virtuale ma ha sempre più bisogno del corrispettivo fisico.
+Traslare il tamagotchi dal suo ambiente virtuale ad uno reale è, ormai, tecnologicamente fattibile e non rimane che aspettare che i cataloghi Sidney raggiungano ogni abitazione. 
+Ma forse il catalogo Sidney è già arrivato e nessuno se n’è accorto. 
+La cura maniacale che viene posta nell’utilizzo degli artefatti tecnologici è alla stregua di quella per gli animali domestici. Pulizia costante, controllo delle prestazioni, attenzione mentre lo si maneggia ecc. sono solo alcuni dei modi che hanno le persone per prendersi cura dei propri computers.
+Il feedback che si riceve prendendosi cura di un’animale è di carattere empatico-emotivo e l’uomo ricerca sempre di più anche nelle macchine un feedback del genere, Cortana e Siri ne sono l’esempio più banale. 
+La differenza, credo fondamentale, è il motivo che spinge una macchina ad emettere un feedback, anche se la facciata è umanizzata e connotata emotivamente, la macchina risponde a degli impulsi binari e l’uomo, per quanto possa illudersi, ad ora non può relazionarsi ad un computer come potrebbe fare con un animale domestico o con un’altra persona. 
+Credo potrebbe essere interessante riuscire a creare un artefatto che metta alla luce questo lato “menefreghista” delle macchine, far uscire dai circuiti il lato meccanico e per niente emotivo che contraddistingue i computers affinché l’uomo possa riuscire a concentrasi maggiormente nel prendersi cura degli altri uomini, degli animali e più in generale della natura e lasciar perdere la cura umanizzata che offre alle macchine che, quando si guastano, possono essere tranquillamente riparate o sostituite. 

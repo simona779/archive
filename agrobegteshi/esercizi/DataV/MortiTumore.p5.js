@@ -1,8 +1,3 @@
-
-
-
-
-
 var url = "https://spreadsheets.google.com/feeds/list/1N-QYhMtlKGLDqTdnUwsLW4O5QxV0PCqS_dpKtq6rZkg/1/public/values?alt=json";
 
 // array per contenere i dati/oggetto

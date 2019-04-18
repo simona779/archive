@@ -2,7 +2,7 @@
 
 
 
-###Introduzione
+### Introduzione
 
 <p> L’elemento invisibile su cui ragionare e prendere in considerazione come concept di progetto è “il profumo”.
 Quest’ultimo è un elemento composto da più miscele di odori, il quale viene recepito da uno dei sensi fondamentali di noi essere umani ovvero l’olfatto, direttamente connesso con il senso del gusto.

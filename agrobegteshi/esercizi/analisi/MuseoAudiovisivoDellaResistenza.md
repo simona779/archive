@@ -1,5 +1,6 @@
-#Museo Audio Visivo delle Resistenza#
-##Studio Azzurro##
+# Museo Audio Visivo delle Resistenza #
+## Studio Azzurro ##
+
 Le scelte delle masse alla fin fine sono scelte di singoli
 individui, la responsabilità è sempre personale. Questo è
 l'insegnamento che traggo dalle visite a questo museo; è

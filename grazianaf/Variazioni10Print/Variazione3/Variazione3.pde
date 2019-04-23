@@ -1,3 +1,5 @@
+//disegna il classico labirinto 10print modificando lo spessore della linea man mano 
+//che si compone. Viene modificata così anche la trasparenza. 
 int larghezza= 16;
 int altezza= 16;
 int index=0;

@@ -17,18 +17,20 @@ void draw() {
   int y1 = altezza*23;
   int y2 = altezza*24;
 
+//disegna un arco 180-0 
   if (random(3) < 1) {
     shapeMode(CENTER);
     stroke(random(0, 230), 280, 360);
     arc(x1, y2, larghezza, altezza, PI, TWO_PI);
     fill(0, 0, random(255));
-        
+ //disegna un arco 90-180 e un arco da 270 a 0      
   } else if (random(3) < 2) {
     stroke(random(0, 230), 280, 360);
     arc(x2, y1, larghezza, altezza, PI/2, PI);
     stroke(random(230, 360), 280, 360);
     arc(x2, y1, larghezza, altezza, PI+HALF_PI, TWO_PI);
   } else {
+  //disegna un arco da 0 a 90
     noFill();
     stroke(random(0, 140), 200, 360);
     arc(x2, y1, larghezza, altezza, 0, PI/2); 

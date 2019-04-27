@@ -1,6 +1,5 @@
 # Interpolare i punti di vista #
 
-
 ## Parole chiave ##
 #### Interpolare ####
 Trovare nuovi punti partendo dall’ipotesi che quelli che conosciamo rispondano ad un andamento sensato. L’interpolazione è una ricerca dei legami tra le cose.

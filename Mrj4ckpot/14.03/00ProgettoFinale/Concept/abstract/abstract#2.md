@@ -28,12 +28,3 @@ Due webcam, collegate a due display led, sono ognuna rivolta verso lo schermo de
 
 [Feedback loop](https://www.youtube.com/watch?v=OWnC9tSA3iA)
 
-#### Proteus && Hive mind bots ####
-![Imgur](https://i.imgur.com/EFcSrW0.jpg)
-![Imgur](https://i.imgur.com/xaKUi2a.jpg)
-
-Questi progetti si basano sul tentativo di produrre un pensiero unico a partire dalle azioni di unità plurali. Nel primo caso, il progetto consiste in uno "specchio" digitale basato su particelle di ferrite indipendenti nei loro spazi che seguono i movimenti degli utenti. Nel secondo caso, i microbot hanno intelligenze artificiali indipendenti che permettono però alle singole unità di capire quale "posto" devono prendere nel momento in cui viene richiesto di realizzare un'immagine.
-
-[Progetto](https://vimeo.com/269581453)
-
-[Hive mind bots](https://www.youtube.com/watch?v=7YoM-21hWRw)

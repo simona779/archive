@@ -23,12 +23,10 @@ Nel caso di un oggetto come un buco nero, con caratteristiche infinitamente gran
 
 ## Casi studio ##
 
-#### Leedback ####
+#### Solar equation ####
 ![Imgur](https://i.imgur.com/lHahyng.jpg)
 
-Due webcam, collegate a due display led, sono ognuna rivolta verso lo schermo dell'altra. Un glitch inserito appositamente nel frame buffer delle due telecamere fa si che le immagini nello schermo vengano "fraintese". In questo modo, gli schermi producono un feedback loop che produce continuamente immagini sempre differenti; allo stesso modo, le nostre opinioni su ciò che vediamo del mondo potrebbero essere modificate dalle nostre stesse azioni, influenzando un modndo che siamo noi a influenzare.
+Questa installazione è composta da un pallone sul quale viene proiettato un pattern dall'interno. Il pattern è una generazione realizzata a partire dai dati raccolti dall'osservazione della superficie solare. Tramite un'applicazione a disposizione del pubblico è possibile apportare modifiche che alterano in tempo reale la generazione del pattern.
 
-[Progetto](https://vimeo.com/153768243)
-
-[Feedback loop](https://www.youtube.com/watch?v=OWnC9tSA3iA)
+[Progetto](http://www.lozano-hemmer.com/solar_equation.php)
 

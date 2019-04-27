@@ -24,7 +24,7 @@ Nel caso di un oggetto come un buco nero, con caratteristiche infinitamente gran
 ## Casi studio ##
 
 #### Solar equation ####
-![Imgur](https://i.imgur.com/lHahyng.jpg)
+![Imgur](https://i.imgur.com/H0gVFvu.jpg)
 
 Questa installazione è composta da un pallone sul quale viene proiettato un pattern dall'interno. Il pattern è una generazione realizzata a partire dai dati raccolti dall'osservazione della superficie solare. Tramite un'applicazione a disposizione del pubblico è possibile apportare modifiche che alterano in tempo reale la generazione del pattern.
 

@@ -30,10 +30,23 @@ Questa installazione è composta da un pallone sul quale viene proiettato un pat
 
 [Progetto](http://www.lozano-hemmer.com/solar_equation.php)
 
-#### Solar equation ####
+#### The field life of electronic objects ####
 ![Imgur](https://i.imgur.com/AkdubQx.jpg)
 
 Questa installazione è composta da un pallone sul quale viene proiettato un pattern dall'interno. Il pattern è una generazione realizzata a partire dai dati raccolti dall'osservazione della superficie solare. Tramite un'applicazione a disposizione del pubblico è possibile apportare modifiche che alterano in tempo reale la generazione del pattern.
 
 [Progetto](https://vimeo.com/65321968)
 
+#### Molecular clouds ####
+![Imgur](https://i.imgur.com/CRxpViF.jpg)
+
+Questa visualizzazione è basata su dati prodotti da astrofisici. La formazione delle stelle è un processo che coinvolge nuvole di materia composte da particelle minuscole, che in tempi lunghissimi si aggregano fino al momento in cui, in frazione di secondo, producono le reazioni nucleari che generano le stelle.
+
+[Progetto](https://vimeo.com/159521082)
+
+#### 577Rhea ####
+![Imgur](https://i.imgur.com/eKJqpSR.jpg)
+
+Questa visualizzazione è basata su dati prodotti da astrofisici. La formazione delle stelle è un processo che coinvolge nuvole di materia composte da particelle minuscole, che in tempi lunghissimi si aggregano fino al momento in cui, in frazione di secondo, producono le reazioni nucleari che generano le stelle.
+
+[Progetto](https://vimeo.com/81616846)

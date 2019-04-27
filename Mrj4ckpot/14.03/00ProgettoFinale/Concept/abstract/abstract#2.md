@@ -12,16 +12,10 @@ Prevedere comportamenti attraverso la realizzazione di un modello nel quale si v
 
 ## Abstract ##
 #### Punti di vista percettivi ####
-![Imgur](https://i.imgur.com/OSGtW5v.jpg)
-![Imgur](https://i.imgur.com/yvqYvZY.jpg)
+![Imgur](https://i.imgur.com/NObGihd.jpg)
+![Imgur](https://i.imgur.com/jeLxfFt.jpg)
 
 Le angolazioni dalle quali percepiamo la realtà possono essere molteplici, nella localizzazione spazio-temporale, nella luce, nei fattori soggettivi e nell’esperienza. Che cosa succederebbe se, un device, ci permettesse di apprezzare in un’unica immagine una moltitudine di aspetti differenti della realtà?
-
-#### Punti di vista sociali ####
-![Imgur](https://i.imgur.com/3pdSrVt.jpg)
-![Imgur](https://i.imgur.com/6GVZEfH.jpg)
-
-Come detto in precedenza, i fattori soggettivi come le storie individuali, le esperienze, la cultura e la conoscenza possono influenzare il modo in cui vediamo quello che succede nel mondo. è possibile produrre uno strumento che possa produrre un “merging” di tali punti di vista? Significherebbe potenziare o appiattire il nostro giudizio sulla realtà?
 
 ## Casi studio ##
 

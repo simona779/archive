@@ -22,6 +22,7 @@ A prescindere da tempo e spazio, alcuni aspetti della psiche sono comuni e immut
 
 #### Leedback ####
 ![Imgur](https://i.imgur.com/lHahyng.jpg)
+
 Due webcam, collegate a due display led, sono ognuna rivolta verso lo schermo dell'altra. Un glitch inserito appositamente nel frame buffer delle due telecamere fa si che le immagini nello schermo vengano "fraintese". In questo modo, gli schermi producono un feedback loop che produce continuamente immagini sempre differenti; allo stesso modo, le nostre opinioni su ciò che vediamo del mondo potrebbero essere modificate dalle nostre stesse azioni, influenzando un modndo che siamo noi a influenzare.
 
 [Progetto](https://vimeo.com/153768243)
@@ -31,6 +32,7 @@ Due webcam, collegate a due display led, sono ognuna rivolta verso lo schermo de
 #### Proteus && Hive mind bots ####
 ![Imgur](https://i.imgur.com/EFcSrW0.jpg)
 ![Imgur](https://i.imgur.com/xaKUi2a.jpg)
+
 Questi progetti si basano sul tentativo di produrre un pensiero unico a partire dalle azioni di unità plurali. Nel primo caso, il progetto consiste in uno "specchio" digitale basato su particelle di ferrite indipendenti nei loro spazi che seguono i movimenti degli utenti. Nel secondo caso, i microbot hanno intelligenze artificiali indipendenti che permettono però alle singole unità di capire quale "posto" devono prendere nel momento in cui viene richiesto di realizzare un'immagine.
 
 [Progetto](https://vimeo.com/269581453)

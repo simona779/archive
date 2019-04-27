@@ -14,6 +14,9 @@ A prescindere da tempo e spazio, alcuni aspetti della psiche sono comuni e immut
 ![Imgur](https://i.imgur.com/OSGtW5v.jpg)
 ![Imgur](https://i.imgur.com/yvqYvZY.jpg)
 
+![Imgur](https://i.imgur.com/3pdSrVt.jpg)
+![Imgur](https://i.imgur.com/6GVZEfH.jpg)
+
 
 ## Casi studio ##
 

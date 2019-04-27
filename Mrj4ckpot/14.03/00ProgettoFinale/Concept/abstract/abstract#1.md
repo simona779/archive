@@ -4,6 +4,8 @@
 ## Parole chiave ##
 #### Interpolare ####
 Trovare nuovi punti partendo dall’ipotesi che quelli che conosciamo rispondano ad un andamento sensato. L’interpolazione è una ricerca dei legami tra le cose.
+#### Merging ####
+Unire due o più cose tra loro. All'interno del risultato gli elementi in comune si fondono, mentre le caratteristiche singole vengono mantenute.
 #### Punto di vista ####
 In narrativa, in fotografia, piuttosto che in pittura, il punto di vista è l'angolatura dalla quale si osservano gli eventi e influenza il nostro giudizio. Il punto di vista è individuale e dipende dall'esperienza e la storia dei singoli o di comunità limitate.
 #### Inconscio collettivo ####

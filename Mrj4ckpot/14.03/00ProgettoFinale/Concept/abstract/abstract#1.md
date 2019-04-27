@@ -20,3 +20,4 @@ A prescindere da tempo e spazio, alcuni aspetti della psiche sono comuni e immut
 
 ## Casi studio ##
 
+[Feedback loop](https://www.youtube.com/watch?v=OWnC9tSA3iA)

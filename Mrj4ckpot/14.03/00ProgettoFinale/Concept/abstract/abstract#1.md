@@ -20,4 +20,17 @@ A prescindere da tempo e spazio, alcuni aspetti della psiche sono comuni e immut
 
 ## Casi studio ##
 
+#### Leedback ####
+Due webcam, collegate a due display led, sono ognuna rivolta verso lo schermo dell'altra. Un glitch inserito appositamente nel frame buffer delle due telecamere fa si che le immagini nello schermo vengano "fraintese". In questo modo, gli schermi producono un feedback loop che produce continuamente immagini sempre differenti; allo stesso modo, le nostre opinioni su ciò che vediamo del mondo potrebbero essere modificate dalle nostre stesse azioni, influenzando un modndo che siamo noi a influenzare.
+[Progetto](https://vimeo.com/153768243)
 [Feedback loop](https://www.youtube.com/watch?v=OWnC9tSA3iA)
+
+#### Leedback ####
+Due webcam, collegate a due display led, sono ognuna rivolta verso lo schermo dell'altra. Un glitch inserito appositamente nel frame buffer delle due telecamere fa si che le immagini nello schermo vengano "fraintese". In questo modo, gli schermi producono un feedback loop che produce continuamente immagini sempre differenti; allo stesso modo, le nostre opinioni su ciò che vediamo del mondo potrebbero essere modificate dalle nostre stesse azioni, influenzando un modndo che siamo noi a influenzare.
+[Progetto](https://vimeo.com/153768243)
+[Feedback loop](https://www.youtube.com/watch?v=OWnC9tSA3iA)
+
+#### Weave/Wave & Hive mind bots ####
+Questi progetti si basano sul tentativo di produrre un pensiero unico a partire dalle azioni di unità plurali. Nel primo caso, il progetto consiste in uno "specchio" digitale che riprodce volti a partire da particelle che hanno vita propria e influenzano vicendevolmente i propri movimenti. Nel secondo caso, i microbot hanno intelligenze artificiali indipendenti che permettono però alle singole unità di capire quale "posto" devono prendere nel momento in cui viene richiesto di realizzare un'immagine.
+[Progetto](https://vimeo.com/206387513)
+[Hive mind bots](https://www.youtube.com/watch?v=7YoM-21hWRw)

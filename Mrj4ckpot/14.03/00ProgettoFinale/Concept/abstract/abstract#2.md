@@ -2,14 +2,12 @@
 
 
 ## Parole chiave ##
-#### Interpolare ####
-Trovare nuovi punti partendo dall’ipotesi che quelli che conosciamo rispondano ad un andamento sensato. L’interpolazione è una ricerca dei legami tra le cose.
-#### Merging ####
-Unire due o più cose tra loro. All'interno del risultato gli elementi in comune si fondono, mentre le caratteristiche singole vengono mantenute.
-#### Punto di vista ####
-In narrativa, in fotografia, piuttosto che in pittura, il punto di vista è l'angolatura dalla quale si osservano gli eventi e influenza il nostro giudizio. Il punto di vista è individuale e dipende dall'esperienza e la storia dei singoli o di comunità limitate.
-#### Inconscio collettivo ####
-A prescindere da tempo e spazio, alcuni aspetti della psiche sono comuni e immutabili in molte culture. Tali aspetti sono innati e non dipendono dalle singole esperienze degli individui.
+#### Molto grande ####
+L'invisibilità di alcuni eventi è dovuta alla scala astronomica in dimensioni di tempo e spazio: La rivoluzione terrestre è trascurabile rispetto al suo moto millenario attorno al centro della galassia, punti minuscoli di luce nel cielo sono in realtà oggetti giganteschi e lontanissimi tra loro e rispetto a noi.
+#### Molto piccolo ####
+L'invisibilità di alcuni eventi è dovuta alla scala microscopica in dimensioni di tempo e spazio: Il bosone di Higgs è una particella che si manifesta ed esiste solo in frazioni infinitesime di un secondo, e le particelle che compongono gli oggetti costituiscono solo l'1% di quello che definiamo come materia.
+#### Simulazione ####
+Prevedere comportamenti attraverso la realizzazione di un modello nel quale si verificano determinate condizioni. Simulare ci permette talvolta di prevedere eventi che non sono ancora accaduti.
 
 
 ## Abstract ##

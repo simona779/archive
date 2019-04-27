@@ -47,6 +47,6 @@ Questa visualizzazione è basata su dati prodotti da astrofisici. La formazione 
 #### 577Rhea ####
 ![Imgur](https://i.imgur.com/eKJqpSR.jpg)
 
-Questa visualizzazione è basata su dati prodotti da astrofisici. La formazione delle stelle è un processo che coinvolge nuvole di materia composte da particelle minuscole, che in tempi lunghissimi si aggregano fino al momento in cui, in frazione di secondo, producono le reazioni nucleari che generano le stelle.
+Esperimento di visualizzazione e videogioco. Lo scopo è quello di esplorare un universo gererato da un seed attraverso galassie e buchi neri; i corpi celesti sono in grado di alterare la fisica della nostra navicella.
 
 [Progetto](https://vimeo.com/81616846)

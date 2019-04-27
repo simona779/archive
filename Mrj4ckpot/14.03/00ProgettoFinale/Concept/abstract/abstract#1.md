@@ -10,10 +10,12 @@ In narrativa, in fotografia, piuttosto che in pittura, il punto di vista è l'an
 A prescindere da tempo e spazio, alcuni aspetti della psiche sono comuni e immutabili in molte culture. Tali aspetti sono innati e non dipendono dalle singole esperienze degli individui.
 
 
-## I punti di vista percettivi e sociali ##
+## Abstract ##
+#### Punti di vista percettivi ####
 ![Imgur](https://i.imgur.com/OSGtW5v.jpg)
 ![Imgur](https://i.imgur.com/yvqYvZY.jpg)
 
+#### Punti di vista sociali ####
 ![Imgur](https://i.imgur.com/3pdSrVt.jpg)
 ![Imgur](https://i.imgur.com/6GVZEfH.jpg)
 

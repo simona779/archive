@@ -1,5 +1,5 @@
 ## Glitching Society
-https://imgur.com/yI1KiNO
+https://i.imgur.com/yI1KiNOm.jpg
 ### Abstract
 La vita si consuma all’interno di una società liquida che vive una continua crisi del concetto di comunità a causa di un individualismo sfrenato e dove l’unica soluzione per gli individui senza punti di riferimento è l’apparire a tutti i costi.
 I social network sono la quintessenza dei non luoghi poiché i legami di comunicazione che si creano all’interno non possono, nella loro totalità, essere definiti relazioni. 

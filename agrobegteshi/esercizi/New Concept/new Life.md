@@ -24,7 +24,7 @@ Per riepilogare vorrei rappresentare le principali cause che influiscono sul tas
 
 <p>In questo punto e come prospettiva di vita per come la vedo io abbiamo diverse precezioni sul termine "vita".
 nel mio concept  vorrei trattare ed analizzare il tasso di mortalità come sopra citato ma per ristringere il campo utilizzare un dataset di malati di tumore.
-Entrando in un ospedale e come se vedessimo più mondi...omeglio diverse dimensioni su come percepiamo la vita, non con gli stessi occhi.
+Entrando in un ospedale e come se vedessimo più mondi...o meglio diverse dimensioni su come percepiamo la vita, non con gli stessi occhi.
 Il fine ultim è quello di mettere in scena questi "mondi" creandoli graficamente per sensibilizzare in un qualche modo la concezione di vita...
 </p>
 

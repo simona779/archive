@@ -1,4 +1,8 @@
 
+![lucy-tendrils (1)](https://user-images.githubusercontent.com/48655194/56870180-d1e2d880-6a0b-11e9-934b-a3ed85eb9667.jpg)
+
+
+
 
 # Il Futuro invisibile
 
@@ -15,8 +19,8 @@ Quindi vorrei accrescere ancor più questa sensazione anche al di là dello “s
 
 ## Concept
 
-<p>Il nuovo concept che ho pensato è il trasferimento delle emozioni ad una macchina, in questo caso ad un robot in grado di imitare le mie abitudini ed emozioni, "un trasferimento di identità".
-Credo che sia un' argomento interessante su cui soffermarci, poichè il futuro sarà  credo seconde me il trasferimento dell'anima in un altro corpo, l'incarnazione della mente in una tecnologia, un  trasferimento di un'entità "oltre vita".</p>
+<p>Il futuro invisibile perchè pensando ad un mondo futuro "la mente sarà separata dal corpo e vivrà in atre dimensioni". Il nuovo concept che ho pensato è il trasferimento delle emozioni ad una macchina, in questo caso ad un robot in grado di imitare le mie abitudini ed emozioni, "un trasferimento di identità".
+Credo che sia un argomento interessante su cui soffermarci, poichè il futuro sarà  credo secondo me il trasferimento dell'anima in un altro corpo, l'incarnazione della mente in una tecnologia, un  trasferimento di un'entità "oltre vita".</p>
 
 
 ### esempi e casi studio

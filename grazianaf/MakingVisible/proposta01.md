@@ -11,6 +11,7 @@ Viviamo in un’era in cui siamo in grado di costruire macchine (ML) che imitano
 **È possibile che le macchine siano dotate di un’etica?**
 
 **L'etica dell'intelligenza artificiale**
+**CONCEPT 1**
 
 Le macchine possono essere programmate per compiere scelte etiche, per rispondere a criteri etici? In che modo l'AI incarna il nostro sistema di valori? 
 Essendo progettate da esseri umani, le macchine potrebbero compiere scelte etiche in riferimento a regole che rispondono al sistema di valori a cui "risponde" a sua volta chi le programma o gli utenti che le utilizzano. Potremmo ipotizzare che esse potrebbero riuscire a compiere una valutazione dei rischi, che la mente umana non sarebbe capace di compiere in tempi brevi, sistematizzando un gran numero di informazioni provenienti dall'ambiente esterno. Ma in questo caso la scelta ricadrebbe ancora sul potere decisionale umano. Se immaginassimo che queste macchine riuscissero a determinare i criteri delle scelte compiute, "imparando" dai diversi contesti, quali potrebbero essere gli effetti? Quale potrebbe essere un ambiente adatto a questo tipo di supporto? 

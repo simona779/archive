@@ -9,3 +9,15 @@ https://singularityhub.com/2015/06/19/this-is-what-happens-when-machines-dream/#
 https://www.quora.com/What-is-the-meaning-of-latent-space 
 https://venturebeat.com/2019/01/17/facebook-and-stanford-researchers-design-a-chatbot-that-learns-from-its-mistakes/ 
 https://www.webnews.it/2017/03/10/recaptcha-google-invisibile/
+
+
+CONCEPT 1
+Le macchine possono dirci chi siamo? Come popolo, come società, come singoli individui? Si può concepire una visualizzazione in base a ciò che proviamo? Il progetto si basa sullo studio della memoria "rubata". Tramite le informazioni digitate dalle persone, la macchina si plasma in base a diversi parametri o categorie. Quanto affido io alla macchina quello che sono? La ricerca che voglio portare avanti è vedere se le macchine possono capire ciò che siamo in base a quello che digitiamo al suo interno.
+
+Casi studio:
+Melting Memories – Drawing neural mechanisms of cognitive control
+https://www.creativeapplications.net/vvvv/melting-memories-drawing-neural-mechanisms-of-cognitive-control/ 
+
+
+Aleph of Emotions – Device for Emotional States of Cities Around the World
+https://www.creativeapplications.net/openframeworks/aleph-of-emotions-device-for-emotional-states-of-cities-around-the-world/ 

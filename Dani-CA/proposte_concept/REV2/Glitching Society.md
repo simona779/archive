@@ -13,6 +13,7 @@ All’interno dello spazio espositivo le opere non avranno cornice ma saranno pr
 L’utilizzo dello smartphone all’interno dei contesti espositivi, se progettato, può dare vita a nuove forme di relazione, così  se un visitatore utilizza il proprio smartphone in prossimità della proiezione questa si modificherà dissolvendo il contenuto precedente per generarne uno nuovo. 
 L’opera principale all’interno della mostra sarà un quadro fisico, posizionato al centro della stanza, che ridisegna in live, attraverso il chiaroscuro, (utilizzando una videocamera) i soggetti che si posizioneranno davanti ad esso, tracciando le geometrie dei corpi con le foto del database. Gli utenti attraverso una gesture avranno la possibilità di salvare l’immagine che verrà, attraverso algoritmi di machine learning, inviata automaticamente al proprio account Instagram. 
 
+***
 
 ### Keywords
 art exhibition - instagram - glitch - community - liquid society 
@@ -21,8 +22,10 @@ art exhibition - instagram - glitch - community - liquid society
 Creators Live
 http://www.socialprintstudio.com/creators.html
 
-CASO STUDIO 2:
+---
+Social Galaxy:
 http://www.cactus.is/samsung
 
-CASO STUDIO 3:
+---
+On Display:
 http://www.vice.com/en_uk/article/yp5by7/see-every-selfie-on-instagram-in-one-interactive-installation

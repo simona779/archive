@@ -1,6 +1,6 @@
 # L’invisibile - eventi infiniti e infinitesimi #
 
-Il giorno 10 Aprile 2019 è stato avvistato per la prima volta nella storia un buco nero che si trova a 55 km dalla Terra. 
+Il giorno 10 Aprile 2019 è stato avvistato per la prima volta nella storia un buco nero che si trova a 55 milioni di anni luce dalla Terra. 
 
 Dal momento che questi corpi celesti hanno un’attrazione gravitazionale talmente grande che nemmeno la luce è in grado di uscire dal suo campo di attrazione, motivo per cui tutto quello che si trova oltre “l’orizzonte degli eventi”, la superficie sferica del buco nero, non può essere visto con nessuno strumento esistente. Ciò che lo rende visibile è, tuttavia, un disco di gas luminosi e radioattivi, generato dalla materia che viene attratta costantemente dal corpo celeste.
 

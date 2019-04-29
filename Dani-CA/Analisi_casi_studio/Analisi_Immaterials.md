@@ -1,17 +1,25 @@
-### Immaterials: Light painting WiFi
+### Immaterials: Light painting WiFi [+](http://voyoslo.com/projects/immaterials-wifi-light-painting/)
 #### _2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen_
 
+![Imgur Image](https://i.imgur.com/bxRB5qNh.jpg)
 
 ##### What is
 
-Immaterials: Light painting WiFi è un progetto fotografico in cui attraverso una particolare fonte luminosa e la fotografia a lunga esposizione si ferma in un fotogramma la visualizzazione delle reti WiFi presenti nel punto inquadrato.
+_Immaterials: Light painting WiFi_ è un progetto video-fotografico creato all'interno del programma di ricerca [ YOUrban ](http://yourban.no/)della Oslo School of Architecture and Design che mette in relazione social media, design e città. 
+Il progetto di attraverso la fotografia a lunga esposizione crea degli istogrammi luminosi si ferma in un fotogramma la visualizzazione della quantità di reti WiFi presenti nel punto inquadrato creando così degli
 
+---
 
 ##### How it works
+
+![Imgur Image](https://i.imgur.com/5OGPhlrm.png)
+![Imgur Image](https://i.imgur.com/1GxMyWZm.png)
+
 
 La fonte luminosa che viene fotografata è un’asta alta 4 metri ricoperta di lampadine.
 Tramite Arduino, uno shield WiFi e una serie di relè le luci vengono accese e spente in relazione al numero di reti WiFi disponibili in quel punto. 
 
+---
 
 ##### What does it means
 

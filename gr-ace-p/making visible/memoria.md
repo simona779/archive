@@ -24,8 +24,9 @@ persone e contesti | amici, tag, hashtag
 ciò che ci riguarda e ci caratterizza | nome, sesso, età, carattere, gusti musicali...
 
 
+![schizzo_evocativo](https://i.imgur.com/KCFxFZ0.jpg)
 
-Realizzare un percorso attraverso il quale l'utente viene privato della propria identità, fisica e digitale. All'utente vieni chiesto di imitare la posizione dell'ombra di fronte a se, nel momento in cui raggiunge quella posizione l'ombra cambia, l'utente dovrà di nuovo riposizionarsi. L'obra è quella generata dall'utente precedente. Alterazione identità fisica. 
+Realizzare un percorso attraverso il quale l'utente viene privato della propria identità, fisica e digitale. All'utente viene chiesto di imitare la posizione dell'ombra di fronte a se, nel momento in cui raggiunge quella posizione l'ombra cambia, l'utente dovrà di nuovo riposizionarsi. L'ombra è quella generata dall'utente precedente. Alterazione identità fisica. 
 
 ##### **Due possibili soluzioni, una fisica e l'altra digitale.**
 +[Studio Azzurro](https://www.youtube.com/watch?v=cIwd3g_svkc)

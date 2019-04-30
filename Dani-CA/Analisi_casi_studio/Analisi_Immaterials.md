@@ -29,6 +29,7 @@ Tra le qualità di uno spazio fisico, sia esso una piazza, un quartiere o una ci
 La potenza e la portata della rete ci offrono molteplici informazioni sull'ambiente in cui questa è installata. Troviamo sicuramente differenze tra piccole reti domestiche e grandi network in parchi o piazze. Le forme architettoniche e il paesaggio urbano modellano il modo in cui le reti si diffondono nella città e la light painting mostra come il comportamento delle reti dipende da dove si trova il trasmettitore e da come viene costruita la città che lo circonda.
 Anche se non si riesce a vederlo ad occhio nudo un complesso sistema di reti pervade in maniera capillare i luoghi in cui viviamo, ne delimita le porzioni e li classifica come utilizzabili o meno. Se ad esempio si è in viaggio e ci si trova nella piazza antistante all'hotel in cui si alloggia e quest'ultima è coperta dalla rete WiFi dell'albergo, si può considerarla come un'estensione dello stesso dove potersi rilassare, prendendo un po' di sole e guardando una puntata della serie tv che più ci piace. Ciò modifica completamente la fruizione che si ha delle architetture delle nostre città, creado nuovi spazi di interazione e di armonia, ad esempio un parco che non è servito da reti WiFi diventa un'oasi di tranquillità dove le persone possono rifugiarsi.
 
+---
 
 ##### What if
 

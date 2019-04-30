@@ -1,6 +1,6 @@
 # Close Reading <h1>
 
-## _Te flow towards Europe_, Lucify <h2>
+## _The flow towards Europe_, Lucify <h2>
   
 ![lucify](https://i.imgur.com/WxlfvEEundefined.png)  
 

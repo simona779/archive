@@ -9,9 +9,10 @@ Il film, ambientato ad Oslo, mostra una passeggiata attraverso la città. Il pro
 
 
 
-### __How does it means?__ <h3>
+### __What does it means?__ <h3>
 
-Dare forma ad un elemento che pervade ormai ogni ambiente, lavorativo e domestico che, seppur invisibile, ne cambia radicalmente la fruizione. Le reti Wifi si insinuano così sia metaforicamente che "concretamente" nello spazio urbano, rivelando la sua struttura architettonica in relazione alle architetture che lo generano. Potrebbe essere interessante in quest'ottica rilevare analogie e pattern ricorrenti all'interno delle città, confrontanto ad esempio l'achitettura delle reti wifi generate da strutture con analoga funzione. 
+Dare forma ad un elemento che pervade ormai ogni ambiente, lavorativo e domestico che, seppur invisibile, ne cambia radicalmente la fruizione. Le reti Wifi si insinuano così sia metaforicamente che "concretamente" nello spazio urbano, rivelando la sua struttura architettonica in relazione alle architetture che lo generano. Potrebbe essere interessante in quest'ottica rilevare analogie e pattern ricorrenti all'interno delle città, confrontanto ad esempio l'achitettura delle reti wifi generate da strutture con analoga funzione. L'esperimento permette inoltre di risalire, dalla forma luminosa risultante, alla tipologia e soprattutto alla quantità di attività relativa ad una determinata zona della cità, evidenziare quindi zone maggiormente "produttive" e aree "spente", che ad esempio potrebbero rappresentare il centro storico della città, o magari zone abitate da popolazione di età più avanzata.
+Il fatto che il risultato dell'esperimento generi una rete, può significare come si, la presenza di internet e delle reti wifi abbia la potenzialità di collegare tutti con tutti, ma anche di provocare isolamento. 
 
 
 ### __What if?__ <h3>

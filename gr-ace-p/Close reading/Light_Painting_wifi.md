@@ -5,7 +5,9 @@ Si tratta di un film realizzato nel 2012 che esplora il mondo invisibile delle r
 
 ### __How does it works?__ <h3>
 
-Il film, ambientato ad Oslo, mostra una passeggiata attraverso la città. Il protagonista porta con se una barra di misurazione WiFi alta 4m che visualizza la potenza dei segnali, sfruttando un Arduino che illumina una quantità di led proporzionati alla potenza del wifi, in cui la massima potenza rappresenta l’accensione di tutti gli 80 led. Spostando l’asta mobile nello spazio tramite fotografie a lunga esposizione è possibile visualizzare le modifiche del segnale e la loro evoluzione. 
+Il film, ambientato ad Oslo, mostra una passeggiata attraverso la città. Il protagonista porta con se una barra di misurazione WiFi alta 4m che visualizza la potenza dei segnali, sfruttando un Arduino che illumina una quantità di led proporzionati alla potenza del wifi, in cui la massima potenza rappresenta l’accensione di tutti gli 80 led. Spostando l’asta mobile nello spazio tramite fotografie a lunga esposizione è possibile visualizzare le modifiche del segnale e la loro evoluzione in particolare ad Oslo, durante il mese di Dicembre le condizioni del cielo, prevalentemente buio, si prestano bene alla visualizzazione tramite la luce.
+
+
 
 ### __How does it means?__ <h3>
 

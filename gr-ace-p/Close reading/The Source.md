@@ -1,7 +1,9 @@
 # Close Reading <h1>
 
 ## _Te flow towards Europe_, Lucify <h2>
-![lucify](https://i.imgur.com/WxlfvEEundefined.png)
+  
+![lucify](https://i.imgur.com/WxlfvEEundefined.png)  
+
 ### __What is?__ <h3>
 
 Si tratta di un’ifografica interattiva progettata da Lucify nel 2015, in particolare da Juho Ojala e Ville Saarinen, che permette di visualizzare il flusso delle persone che dal 2012 ad oggi migrano verso l’Europa in cerca d’asilo.

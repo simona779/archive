@@ -1,34 +1,45 @@
 ### The flow towards Europe
 #### _2015, Lucify_
 
+![Imgur Image](https://i.imgur.com/Q397h35l.gif) 
 
 ##### What is 
 
-The flow towards Europe è una visualizzazione di dati interattiva racchiusa in un sito web. 
-Il progetto, realizzato da Ville Saarinen e Juho Ojala alla fine del 2018, mostra i flussi migratori in Europa dal 2012 al 2018. 
-I dati che vengono visualizzati nelle due infografiche interattive sono i quelli ufficiali dell’ONU.
+[_The flow towards Europe_](https://www.lucify.com/the-flow-towards-europe/) è un sito web progettato dallo studio finlandese [_Lucify_](https://www.lucify.com/).
+Il sito affronta il tema delle migrazioni in Europa dal 2012 al 2018 con delle interessanti soluzioni sia a livello grafico sia a livello di significato.
+Il progetto, realizzato da _Ville Saarinen_ e _Juho Ojala_ alla fine del 2018, utilizza la data visualization come forma comunicativa ed è formato da un grafico interattivo principale che visualizza i flussi migratori verso l'Europa dal Nord Africa ed dal Medio Oriente e da altri due grafici di cui uno interattivo.
+Il grafico principale è una carta geografica in cui _particles_ animati compiono lo stesso tragitto delle persone che rappresentano.
+I dati che vengono visualizzati nelle infografiche sono quelli ufficiali dell’UNHCR.
 
+---
 
 ##### How it works
 
-I due grafici interattivi sono programmati in Javascript attraverso l’utilizzo della libreria D3. 
-I dati provengono da un file .CSV che viene visualizzato attraverso il codice. 
+I due grafici interattivi sono programmati in _Javascript_ utilizzando le librerie _Node.js_, _Yarn_, _Ruby_, _Bundler_ e _GDAL_.
+I dati provengono dal [database ufficiale _UNHCR_](http://popstats.unhcr.org/en/asylum_seekers_monthly), sono esportati in formato _.CSV_ e letti da _Javascript_ in _JSON_.
 
+L'intero codice è disponibile nella seguente repositori su GitHub [+](https://github.com/lucified/lucify-refugees). 
+
+---
 
 ##### What does it means
 
-Il tipo di visualizzazione che è stata utilizzata è una fotografia fedele della realtà. Presenta i dati così come sono, senza fornire opinioni personali. Mostra infatti le migrazioni come un dramma umanitario e non come un problema politico. 
-La visualizzazione risulta fredda e distaccata dal tema che affronta ed aiuta a comprendere numericamente il fenomeno dei flussi migratori in Europa. 
+La metafora, non troppo velata, per rappresentare la migrazione è una sezione di planisfero che inquadra l'Africa, l'Europa e il Medio Oriente dove le perone che transitano nei paesi sono state rappresentate tramite particles in movimento. 
+Quella presentata è una fotografia fedele della realtà. I particles rappresentano in maniera distaccata le persone in movimento e l'intera visualizzazione presenta i dati così come sono, senza fornire opinioni personali.
+La migrazione viene così slegata dal tema umanitario e proposta come problema politico.
+Questo inquadramento del problema favorisce la comprensione dei dati dei in maniera globale, senza inquadrare il particolare con focus di approfondimento.
 
+---
 
 ##### What if
 
-Si prendessero in esame non solo i flussi migratori europei ma anche quelli mondiali.
-Inserendo il fenomeno in un contesto più ampio cambierebbe completamente la sua proporzione.
+- Se non si prendessero in esame  esclusivamnte i flussi migratori europei ma venissero aggiunti i dati mondiali in modo tale da visualizzare nel complesso il fenomeno migratorio globale.
+In questo modo cambierebbe la sua proporzione e così anche il bacino d'utenza al quale si può riferire. 
 
-Non si prendessero in considerazione sono gli ultimi 6 anni ma si ragionasse di una visualizzazione storica delle migrazioni. Così facendo si capirebbe che il fenomeno recente è totalmente irrisorio rispetto a quello passato. 
+- Se non si prendessero in considerazione sono gli ultimi 6 anni ma si ragionasse su una visualizzazione storica delle migrazioni. 
+In questo modo si capirebbe meglio che il fenomeno recente delle migrazioni Europee è totalmente irrisorio rispetto alla scala mondiale e agli anni passati. 
 
-Si dessero delle informazioni più umanizzate, spiegando il contesto e facendo vedere i volti delle persone che compiono quelle tratte. Sicuramente si avrebbe un risultato diverso agli occhi dell’utente, magari più fazioso ma sicuramente meno freddo.
+- Se le informazioni venissero fornite in una forma più umanizzata, spiegandone il contesto e presentassero, anche attraverso un reportage fotografico, le persone che compiono materialmente quelle tratte. Sicuramente si avrebbe un risultato diverso agli occhi dell’utente, senza ombra di dubbio più di parte ma anche maggiormente interessato alla risoluzione del problema.
 
 
 

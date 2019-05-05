@@ -13,4 +13,4 @@ Lo stress in molti casi è una condizione di disagio, molte volte sottovalutata 
 #### Salute  
 
 ##### Casi studio:
-[+](http://www.fablabpisa.org/?p=608)
+FabLab di Pisa [+](http://www.fablabpisa.org/?p=608)

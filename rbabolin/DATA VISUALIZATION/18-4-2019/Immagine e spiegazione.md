@@ -1,3 +1,3 @@
-[+](/Users/romanobabolin/Desktop/IMMAGINI DEL CORSO/DATA VISUALIZATION/PROVA DEL 18-4-2019.jpg)
+[+](https://imgur.com/QBOWnlZ)
 VISUALIZZAZIONE DI DATI ATMOSFERICI IMPOSTATI EMPIRICAMENTE.
 [+]https://editor.p5js.org/r.babolin@gmail.com/full/wOpQ9E5cX

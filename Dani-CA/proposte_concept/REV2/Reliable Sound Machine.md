@@ -1,4 +1,4 @@
-## Reliable Machine
+## Reliable Sound Machine
 
 ![Imgur Image](https://i.imgur.com/oBWiTMdl.jpg) 
 
@@ -12,7 +12,7 @@ In relazione alla ludicità ho voluto associare l'universo della musica e nella 
 ***
 
 ### Parole chiave
-installazione -  multisensorialità - stress - errore - fiducia
+_installazione_ -  _musica_ - _percussioni_  - _uomo-macchina_ - _errore_ - _performance_
 
 ### Casi studio
 
@@ -42,4 +42,20 @@ Dadamachines
 https://dadamachines.com/
 
 ---
+
+Hit the beat
+
+http://www.lorenzobravi.com/projects/hit-the-beat/
+
+---
+
+Patatap
+
+https://patatap.com/
+
+---
+
+Color a Sound
+
+http://blairneal.com/portfolio_page/color-a-sound/
 

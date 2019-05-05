@@ -1,8 +1,8 @@
 ## Monument
-![]
+![+](https://i.imgur.com/usDREw3.jpg)
 #### Cos’è?
 Si tratta di una installazione di Data Visualization che simboleggia la morte da uccisione. Un contenitore di palline gialle formato da mattoncini Lego sospeso, attraverso un meccanismo rilascia  nel pavimento una pallina ogni volta che una notizia riporta di una morte per uccisione
-
+![+](https://i.imgur.com/cchL1NH.jpg)
 #### Come funziona?
 L’azione di rilascio della pallina è regolata da un software che con un algoritmo controlla 4500 notizie in lingua inglese e, se all’interno si riferisce ad un assassinio, aziona uno sportellino che rilascia a terra una pallina.
 Si basa sull’esame dei feed RSS di Google News e se è inserita la parola “ucciso” l’azione del meccanismo si compie.

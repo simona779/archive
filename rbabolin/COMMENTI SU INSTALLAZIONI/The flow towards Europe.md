@@ -1,14 +1,16 @@
 ## The flow towards Europe
-
+![+](https://i.imgur.com/k4eTlfl.jpg)  
 #### Cos’è?  
 Flow toward Europe è un progetto di visualizzazione dati interattivo riguardante i flussi migratori verso i paesi europei negli ultimi anni.
 Sviluppato dai designer Ville Saarinen e Juho Oiala nel 2015 si basa sull’utilizzo di dati provenienti dall’agenzia UNHCR relativi al numero di richiedenti asilo nei paesi di destinazione e mette in relazione i paesi di origine con le destinazioni visualizzando un flusso di punti che percorrono linee che attraversano molti degli stati europei. 
-I dati si riferiscono al periodo che va dal Gennaio 2012 fino ad Agosto del 2018 e sono supportati anche dall’utilizzo di un grafico Sankey che, con uno slider rappresentante la linea del tempo, mette in relazione paesi di origine e di destinazioni evidenziando il numero di immigrati.
+I dati si riferiscono al periodo che va dal Gennaio 2012 fino ad Agosto del 2018 e sono supportati anche dall’utilizzo di un grafico Sankey che, con uno slider rappresentante la linea del tempo, mette in relazione paesi di origine e di destinazioni evidenziando il numero di immigrati.  
+![+](https://i.imgur.com/jpAYVkd.jpg)
 
 #### Come funziona?
 Si tratta di un sito web e l’interazione con il mouse permette ad una mappa comprendente l’Europa, l’Asia e l’Africa fa da sfondo di animare i flussi e di evidenziare dinamicamente i dati sia per gli stati dove gli immigrati partono che in quelli di destinazione.
 L’utilizzo di software come Javascript e D3 permette al sito di animarsi.
 I dati sono caricati in CSV mentre il file del grafico Sankey in SVG: formati che permettono di essere elaborati nella creazione delle interazioni in HTML.
+![+](https://i.imgur.com/bs741UT.jpg)
 
 #### Cosa significa?
 Si tratta di una rappresentazione di effetto che mette in evidenza la dimensione del fenomeno migratorio in atto.

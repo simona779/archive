@@ -12,6 +12,6 @@ La necessità di sensibilizzare in modo ossessivo l’opinione pubblica sul tema
 #### Pericolosità  
 
 ##### Casi studio:
-[Infografica sulla plastica negli oceani](http://dumpark.com/seas-of-plastic-infographic/)  
-[Specifica visualizzazione di dove sono dislocate le microplastiche](https://www.nature.com/news/bottles-bags-ropes-and-toothbrushes-the-struggle-to-track-ocean-plastics-1.20432)  
-[Quali sono le principali fonti di produzione delle microplastiche](https://www.leisurepro.com/blog/ocean-news/great-plastic-era-change-want-see-world/)
+Infografica sulla plastica negli oceani [+](http://dumpark.com/seas-of-plastic-infographic/)  
+Specifica visualizzazione di dove sono dislocate le microplastiche [+](https://www.nature.com/news/bottles-bags-ropes-and-toothbrushes-the-struggle-to-track-ocean-plastics-1.20432)  
+Quali sono le principali fonti di produzione delle microplastiche [+](https://www.leisurepro.com/blog/ocean-news/great-plastic-era-change-want-see-world/)

@@ -1,3 +1,4 @@
-[+](/Users/romanobabolin/Desktop/IMMAGINI DEL CORSO/P5/CLASSI E MOUSE DRAGGED/CLASSI E MOUSE DRAGGED.jpg)
-UN MODO SPIEGATO DA SHIFFMAN PER SVILUPPARE CLASSI E CON GENERAZIONE CON MOUSE DRAGGED
-[+]https://editor.p5js.org/r.babolin@gmail.com/full/ehjQgCCM9
+![+](https://i.imgur.com/CpiowdF.jpg)  
+UN MODO SPIEGATO DA SHIFFMAN PER SVILUPPARE CLASSI E CON GENERAZIONE CON MOUSE DRAGGED  
+Link: [+](https://editor.p5js.org/r.babolin@gmail.com/full/ehjQgCCM9)
+ 

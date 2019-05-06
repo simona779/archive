@@ -5,7 +5,8 @@
 <img src="https://i.imgur.com/tUBuWlJ.png" height="600"/>
 <img src="https://i.imgur.com/dlOyAOL.png" height="600"/>
 
-https://www.creativeapplications.net/objects/a-personalised-spin-cycle-project-evas-object-of-the-internet/
+[I'm an inline-style link](https://www.openprocessing.org/sketch/486307)
+[I'm an inline-style link](https://www.creativeapplications.net/objects/a-personalised-spin-cycle-project-evas-object-of-the-internet/)
 
 <h1> Pozzo dei sogni </h1>
 
@@ -14,3 +15,5 @@ https://www.creativeapplications.net/objects/a-personalised-spin-cycle-project-e
 <img src="https://i.imgur.com/2Q8wUoh.png" height="300" />
 
 <img src="https://i.imgur.com/80dT2JZ.png" height="600"/>
+
+[I'm an inline-style link](https://www.creativeapplications.net/unity-3d/inside-the-artists-headset-sterling-crispins-cyber-paint/)

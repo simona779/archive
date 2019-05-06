@@ -1,4 +1,6 @@
 ## _Immaterial: Light painting WiFi_ , 2012, Timo Arnall, Jørn Knutsen e Einar Sneve Martinussen <h2>
+![imgur](https://i.imgur.com/bX3OVDI.jpg)  
+  
 ### __What is?__ <h3>
 
 Si tratta di un film realizzato nel 2012 che esplora il mondo invisibile delle reti WiFi negli spazi urbani.
@@ -18,8 +20,23 @@ Il fatto che il risultato dell'esperimento generi una rete, può significare com
 ### __What if?__ <h3>
 
 Se lo stesso film fosse girato in un paese in via di sviluppo?
+
 Se anzichè tanti piccoli led separati fosse stata usata un’unica striscia, l’effetto finale e quindi il significato sarebbero cambiati?
+
 Se l’output anzichè un film fosse stata una performance in cui ognununo, dotato della sua asta led, potesse girare per la città?
+
 Se ogni asta avesse avuto luci led di colori differenti in base alla potenza del segnale?
+
 Se fossero stati mostrati i punti della città __non__ coperti da rete WiFi sarebbe cambiato il significato?
+
+### Progetti analoghi
+[+](https://philippschmitt.com/work/lightpainting)
+![imgur](https://i.imgur.com/yzE1YNm.png)
+
+
+
+#### __Fonti__ 
+[+](http://yourban.no/2011/02/22/immaterials-light-painting-wifi/)
+[+](https://www.designboom.com/design/immaterials-light-painting-wifi-by-timo-arnall-jorn-knutsen-einar-sneve-martinussen/)
+
 
